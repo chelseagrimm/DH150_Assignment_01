@@ -23,11 +23,13 @@ However,
 
 ## 2. Match between the system and the real world.
 
-The LAAS website has links to their social media on the website and use the icons for Facebook, Instagram, and Twitter. 
+The LAAS website has links to their social media on the website and use the icons for Facebook, Instagram, and Twitter that the user would recognize. 
 
 ![Social media links](image)
 
-However, 
+The site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead.
+
+![SMART](image)
 
 ## 3. User control and freedom.
 
@@ -37,21 +39,31 @@ The link to the foster application takes you to a PDF in which users cannot type
 
 ## 4. Consistency and standards.
 
-On the calendar page, there are multiple calendars with different formats.
+On the calendar page, there are multiple calendars with different formats. There is a master Google calendar at the top of the page with all of the events displayed. Below are two grids: "Volunteer Orientations" and "Wildlife Workshops". These events are already included on the Google calendar, with all of the same information included, so it is unnecessary to have both.
+
+![Calendars](image)
 
 On every page there is the toolbar at the top, as well as a sidebar. Many of these links are redundant. For example, clicking the header "Adopt" on the top toolbar menu brings you to the same page as clicking "Adopt a pet today" under the "Looking for a friend" section on the side toolbar menu. 
 
+![Multiple toolbars](image)
+
+On the online volunteer form, some fields are denoted with a blue asterick for required field while others have the written out "answer required".
+
+![Answer required inconsistency](image)
+
 ## 5. Error prevention.
 
-Evaluation:
+The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user.
+
+![Error suggestions](images)
 
 ## 6. Recognition rather than recall.
 
-If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would inhibit them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and using recognition techniques. (Severity level )
+If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and using recognition techniques. (Severity level )
 
 ## 7. Flexibility and efficiency of use.
 
-Evaluation:
+There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills.
 
 ## 8. Aesthetic and minimalist design.
 
