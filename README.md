@@ -19,21 +19,21 @@ The LA Animal Services website has a good example of visibility of the system on
 
 ![Foster banner](image)
 
-However, 
+However, since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity level 1)
 
 ## 2. Match between the system and the real world.
 
-The LAAS website has links to their social media on the website and use the icons for Facebook, Instagram, and Twitter that the user would recognize. 
+The LAAS website has links to their social media on the website and use the icons for Facebook, Instagram, and Twitter that the user would recognize. This is a good match between the system and the real world.
 
 ![Social media links](image)
 
-The site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead.
+However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead.
 
 ![SMART](image)
 
 ## 3. User control and freedom.
 
-The link to the foster application takes you to a PDF in which users cannot type into the form. 
+The link to the foster application takes the user to a PDF in which users cannot type into the form. It also does not contain instructions on how to submit the form. This does not give the user control over the website. 
 
 [Foster application](http://www.laanimalservices.com/wp-content/uploads/2019/06/foster-application.pdf)
 
@@ -67,7 +67,7 @@ There appears to be little flexibility in the LAAS website. As mentioned in poin
 
 ## 8. Aesthetic and minimalist design.
 
-The design of the LAAS website is not minimalistic and is overwhelming.
+The design of the LAAS website is overwhelming. There are multiple formats for pages. Some have a second toolbar at the top while others do not. (See screenshot of "Adopt" page vs "Volunteer" page.) There are too many options under the drop down menus, but they are not comprehensive. Due to the complicated design of the website, users could become confused. 
 
 ## 9. Help users recognize, diagnose, and recover from errors.
 
