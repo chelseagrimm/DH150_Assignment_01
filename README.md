@@ -3,7 +3,7 @@ Chelsea Grimm, DH150 Winter 2020
 
 [LA Animal Services](http://www.laanimalservices.com)
 
-![LA Animal Services website](/Users/chelseagrimm/Desktop/dh150/1.png)
+![LA Animal Services website](1.png)
 
 For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. The county of Los Angeles is so large that the animal shelters are overcrowded and their website is lacking. I believe that the user experience for animal lovers like myself could be improved on the LA Animal Services website to enable users to navigate the services offered with more ease and help more animals. 
 
