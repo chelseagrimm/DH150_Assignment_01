@@ -109,9 +109,9 @@ The search bar on the homepage is small in size, but centered and towards the to
 
 ![peta homepage](peta.png)
 
-The PETA website is visually appealing and contains many images to accompany its pages. There are 12 menu options at the top of the page, which have a consistent design; when you click on them they have more options on the left side of the page. 
+The PETA website is visually appealing and contains many images to accompany its pages. There are 12 menu options at the top of the page, which have a consistent design; when you click on them they have more options on the left side of the page. The website is full of articles, making it seem like a collection of blog posts; however, it also contains informational pages and ways to volunteer and donate. 
 
-While the PETA website is , it could benefit from . 
+While the PETA website is organized, it still has an overwhelming amount of information in which the user could become lost. The website could benefit from providing a page of "quick" or "popular" links to bring users to the pages they are most likely to seek.  
 
 # Heuristic Evaluation for PETA
 
@@ -131,13 +131,13 @@ It is clear from the PETA website that they encourage users to share their mater
 
 ## 3. User control and freedom.
 
-Every time the home page is loaded, the user recieves a pop-up ad. Sometimes the ad is layered with another message (see below) asking for the users permission to pester them with more automated pop-ups. This is both an annoyance to the user and limits their control as they have to spend time looking for the exit button to dismiss the ads. (Severity Level: 2)
+Every time the home page is loaded, the user recieves a pop-up ad. Sometimes the ad is layered with another message (see below) asking for the users permission to pester them with more automated pop-ups. This is both an annoyance to the user and limits their control as they have to spend time looking for the exit button to dismiss the ads. (Severity Level: 1)
 
 ![control](3control.png)
 
 ## 4. Consistency and standards.
 
-As stated in point 2, PETA clearly wants to highlight their social media. So much so that they do not keep it conisitent, even on the same page. (Severity Level: 1)
+As stated in point 2, PETA clearly wants to highlight their social media. However, they do not keep their symbols conisitent, even on the same page. While it is still clear what the symbols mean, they are not following a standard. (Severity Level: 1)
 
 ![sm](p4.1.png)
 
@@ -153,7 +153,7 @@ When filling out any form on PETA's website, they separate their reqiured fields
 
 ## 6. Recognition rather than recall.
 
-The "Action" page simply has a search bar to "Search Action Alerts". An unexperienced user may not know what an action alert is and would therefore not know what to search for in this instance. Instead, it would be helpful to provide examples or suggestions. Additionally, unless a user has a specific cause in mind, searching a simple term like "dog" leads them to over 100 results to sort through manually. (Severity Level: 2)
+The "Action" page simply has a search bar to "Search Action Alerts". The page provides examples of action alerts below the searchbar; however, unless a user has a specific cause in mind and knows which keywords to search for, searching a simple term like "dog" leads them to over 100 results to sort through manually. It would be more helpful to separate action alerts into categories and provide categories to search within, instead of just providing random examples. (Severity Level: 2)
 
 ![recall](6recall.png)
 
