@@ -1,7 +1,9 @@
-# Simplifying the LA Animal Services website
+# Streamlining Animal Welfare Websites
 Chelsea Grimm, DH150 Winter 2020
 
-For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. The county of Los Angeles is so large that the shelters are full of animals and their website is trying to keep up. I believe that the user experience for animal lovers like myself could be improved on the LA Animal Services website to enable users to navigate the services offered with more ease to ultimately help more animals. 
+For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. Through exploring different websites whose goal is to help animals, I found that there is so much information and resources that can overwhelm a user. 
+
+# Example 1: Los Angeles Animal Services
 
 [LA Animal Services](http://www.laanimalservices.com)
 
@@ -71,8 +73,10 @@ If users have lost an animal, there is the option to search by animal ID. Howeve
 
 There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills. (Severity Level: 2)
 
+Top toolbar
 ![top](top.png)
 
+Side toolbar
 ![side](side.png)
 
 ## 8. Aesthetic and minimalist design.
@@ -97,26 +101,27 @@ The search bar on the homepage is small in size, but centered and towards the to
 
 ![Search example](10.png)
 
+# Example 2: PETA
 
 [PETA website](https://www.peta.org)
 
-![peta homepage]()
+![peta homepage](peta.png)
 
-Info about webpage
+The PETA website is visually appealing and contains many images to accompany its pages. There are 12 menu options at the top of the page, which have a consistent design; when you click on them they have more options on the left side of the page. 
 
-Overall impression
+While the PETA website is , it could benefit from . 
 
 # Heuristic Evaluation for PETA
 
 ## 1. Visibility of system status.
 
-EX
+While it is helpful that the website offers a "back to top" button after certain sections, it would be beneficial for the user to know exactly where on the page they are to be able to make the decision to continue or not. This could be easily achieved by highlighting the section already present on the left toolbar. (Severity Level: 1)
 
 ![visibility](1visibility.png)
 
 ## 2. Match between system and the real world.
 
-EX
+It is clear from the PETA website that they encourage users to share their material on social media. However, some of the symbols they choose to use could be somewhat confusing to the user. For example, the arrow in the left corner appears to be welcoming users to launch the article; however, when the mouse is hovered over it, options to share to social media are revealed instead. (Severity Level: 1)
 
 ![match](2.1peta.png)
 
@@ -124,13 +129,13 @@ EX
 
 ## 3. User control and freedom.
 
-EX
+Every time the home page is loaded, the user recieves a pop-up ad. Sometimes the ad is layered with another message (see below) asking for the users permission to pester them with more automated pop-ups. This is both an annoyance to the user and limits their control as they have to spend time looking for the exit button to dismiss the ads. (Severity Level: 2)
 
 ![control](3control.png)
 
 ## 4. Consistency and standards.
 
-EX
+As stated in point 2, PETA clearly wants to highlight their social media. So much so that they do not keep it conisitent, even on the same page. (Severity Level: 1)
 
 ![sm](p4.1.png)
 
@@ -140,19 +145,19 @@ EX
 
 ## 5. Error prevention.
 
-EX
+When filling out any form on PETA's website, they separate their reqiured fields from non-required fields simply by bolding the required fields. However, this distinction is not very clear and does not follow the standard practices. Using an asterick or coloring those fields in red would be more effective in preventing users from making this error. (Severity Level: 2)
 
 ![error](5errorprevention.png)
 
 ## 6. Recognition rather than recall.
 
-EX
+The "Action" page simply has a search bar to "Search Action Alerts". An unexperienced user, may not know what an action alert is and would therefore not know what to search for in this instance. Instead, it would be helpful to provide examples or suggestions. Additionally, unless a user has a specific cause in mind, searching a simple term like "dog" leads them to over 100 results to sort through manually. (Severity Level: 2)
 
 ![recall](6recall.png)
 
 ## 7. Flexibility and efficiency of use.
 
-EX
+PETA has an accesibility page to allow disabled users to use their website efficiently. This is a great feature.
 
 ![flex](p7.1.png)
 
@@ -160,18 +165,18 @@ EX
 
 ## 8. Aesthetic and minimalist design.
 
-EX
+The design of the PETA website is consistent and minimalistic. It is pretty.
 
 ![design](8.png)
 
 ## 9. Help users recognize, diagnose, and recover from errors.
 
-EX
+When trying to submit a volunteer form without any information, the website generates an error message stating an invalid email address. Then when a valid email address in inputted (but still nothing else) another error message appears that says first name is missing. It would be extremely more efficient for all of the missing field errors to be diagnosed at once instead of one by one. The user would become frustrated. As stated in point 5, it is already unclear which fields are required so it would not be surprising for users to encounter this error. (Severity Level: 3)
 
 ![errorprev](9errors.png)
 
 ## 10. Help and documentation.
 
-EX
+The PETA website is a great example of a help page. They have a full "Site Map" page to help users navigate their website. 
 
 ![help](10help.png)
