@@ -25,7 +25,7 @@ However, since there are so many headers and links on the pages, it would be hel
 
 The LAAS website has links to their social media on the website and use the icons for Facebook, Instagram, and Twitter that the user would recognize. This is a good match between the system and the real world.
 
-![Social media links](image)
+![Social media links](2.1.png)
 
 However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead. (Severity Level: 1)
 
