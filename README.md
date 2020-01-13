@@ -55,7 +55,7 @@ On the online volunteer form, some fields are denoted with a blue asterick for r
 
 The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user.
 
-![Error suggestions](5.error)
+![Error suggestions](5.error.png)
 
 ## 6. Recognition rather than recall.
 
