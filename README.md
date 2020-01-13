@@ -39,7 +39,7 @@ The link to the foster application takes the user to a PDF in which users cannot
 
 ## 4. Consistency and standards.
 
-On the calendar page, there are multiple calendars with different formats. There is a master Google calendar at the top of the page with all of the events displayed. Below are two grids: "Volunteer Orientations" and "Wildlife Workshops". These events are already included on the Google calendar, with all of the same information included, so it is unnecessary to have both.
+On the calendar page, there are multiple calendars with different formats. There is a master Google calendar at the top of the page with all of the events displayed. Below are two grids: "Volunteer Orientations" and "Wildlife Workshops". These events are already included on the Google calendar, with all of the same information included, so it is unnecessary to have both. (Severity Level: 1)
 
 ![Calendars](4.0.png)
 
@@ -47,29 +47,29 @@ On the calendar page, there are multiple calendars with different formats. There
 
 ![Calendars](4.2.png)
 
-On every page there is the toolbar at the top, as well as a sidebar. Many of these links are redundant. For example, clicking the header "Adopt" on the top toolbar menu brings you to the same page as clicking "Adopt a pet today" under the "Looking for a friend" section on the side toolbar menu. 
+On every page there is the toolbar at the top, as well as a sidebar. Many of these links are redundant. For example, clicking the header "Adopt" on the top toolbar menu brings you to the same page as clicking "Adopt a pet today" under the "Looking for a friend" section on the side toolbar menu. (Severity Level: 2)
 
 ![Multiple toolbars](4.4.png)
 
-On the online volunteer form, some fields are denoted with a blue asterick for required field while others have the written out "answer required".
+On the online volunteer form, some fields are denoted with a blue asterick for required field while others have the written out "answer required". (Severity Level: 1)
 
 ![Answer required inconsistency](4.3.png)
 
 ## 5. Error prevention.
 
-The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user.
+The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user. (Severity Level: 1)
 
 ![Error suggestions](5.error.png)
 
 ## 6. Recognition rather than recall.
 
-If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and using recognition techniques. (Severity level )
+If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and using recognition techniques. (Severity level: 3)
 
 ![Animal ID](6.png)
 
 ## 7. Flexibility and efficiency of use.
 
-There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills.
+There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills. (Severity Level: 2)
 
 ![top](top.png)
 
@@ -77,7 +77,7 @@ There appears to be little flexibility in the LAAS website. As mentioned in poin
 
 ## 8. Aesthetic and minimalist design.
 
-The design of the LAAS website is overwhelming. There are multiple formats for pages. Some have a second toolbar at the top while others do not. (See screenshot of "Adopt" page vs "Volunteer" page.) There are too many options under the drop down menus, but they are not comprehensive. Due to the complicated design of the website, users could become confused. 
+The design of the LAAS website is overwhelming. There are multiple formats for pages. Some have a second toolbar at the top while others do not. (See screenshot of "Adopt" page vs "Volunteer" page.) There are too many options under the drop down menus, but they are not comprehensive. Due to the complicated design of the website, users could become confused. (Severity Level: 2)
 
 ![home](7.1.png)
 
@@ -87,12 +87,12 @@ The design of the LAAS website is overwhelming. There are multiple formats for p
 
 ## 9. Help users recognize, diagnose, and recover from errors.
 
-To test the animal search feature, I inputted a false animal ID. I was then given an error message stating: "Remember, the fewer things you search on, the more animals you will see. Use the 'No Preference' option for breed, gender, age, size and color to see the most animals." at the top of the page as well as: "We are very sorry, but due to high usage we were unable to process your request. Please wait a few moments and try again." in the middle of the page. To the user it is unclear what caused the error and what can be done to fix it. (Severity level )
+To test the animal search feature, I inputted a false animal ID. I was then given an error message stating: "Remember, the fewer things you search on, the more animals you will see. Use the 'No Preference' option for breed, gender, age, size and color to see the most animals." at the top of the page as well as: "We are very sorry, but due to high usage we were unable to process your request. Please wait a few moments and try again." in the middle of the page. To the user it is unclear what caused the error and what can be done to fix it. (Severity Level: 2)
 
 ![Search error](9.png)
 
 ## 10. Help and documentation.
 
-The search bar on the homepage is small in size, but centered and towards the top of the page. Once you navigate off the homepage the search bar is now on the sidebar, which is not too difficult to spot, but is not intuitive since it has moved locations. Additionally, searching for a simple key word like "adopt" generates results of blog posts instead of how to navigate the website to the adoption pages. The FAQs provide more relevant information to an "adopt" search; however they are located under the "About Us" menu on the top toolbar and not under the "Need Help" menu on the side toolbar. (Severity level )
+The search bar on the homepage is small in size, but centered and towards the top of the page. Once you navigate off the homepage the search bar is now on the sidebar, which is not too difficult to spot, but is not intuitive since it has moved locations. Additionally, searching for a simple key word like "adopt" generates results of blog posts instead of how to navigate the website to the adoption pages. The FAQs provide more relevant information to an "adopt" search; however they are located under the "About Us" menu on the top toolbar and not under the "Need Help" menu on the side toolbar. (Severity Level: 2)
 
 ![Search example](10.png)
