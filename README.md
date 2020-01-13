@@ -3,7 +3,7 @@ Chelsea Grimm, DH150 Winter 2020
 
 [LA Animal Services](http://www.laanimalservices.com)
 
-![LA Animal Services website](Screen Shot 2020-01-12 at 9.51.21 AM.png)
+![LA Animal Services website](/Users/chelseagrimm/Desktop/dh150/1.png)
 
 For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. The county of Los Angeles is so large that the animal shelters are overcrowded and their website is lacking. I believe that the user experience for animal lovers like myself could be improved on the LA Animal Services website to enable users to navigate the services offered with more ease and help more animals. 
 
@@ -19,7 +19,7 @@ The LA Animal Services website has a good example of visibility of the system on
 
 ![Foster banner](image)
 
-However, since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity level 1)
+However, since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity Level: 1)
 
 ## 2. Match between the system and the real world.
 
@@ -27,13 +27,13 @@ The LAAS website has links to their social media on the website and use the icon
 
 ![Social media links](image)
 
-However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead.
+However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead. (Severity Level: 1)
 
 ![SMART](image)
 
 ## 3. User control and freedom.
 
-The link to the foster application takes the user to a PDF in which users cannot type into the form. It also does not contain instructions on how to submit the form. This does not give the user control over the website. 
+The link to the foster application takes the user to a PDF in which users cannot type into the form. It also does not contain instructions on how to submit the form. This does not give the user control over the website. (Severity Level: 2)
 
 [Foster application](http://www.laanimalservices.com/wp-content/uploads/2019/06/foster-application.pdf)
 
