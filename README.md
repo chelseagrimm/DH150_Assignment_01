@@ -17,7 +17,7 @@ While the current LA Animal Services website is full of helpful information, it 
 
 The LA Animal Services website has a good example of visibility of the system on its homepage. There is a banner with the locations listed and the number of fosters currently needed with links to pages to become a foster. 
 
-![Foster banner](image)
+![Foster banner](1.good.png)
 
 However, since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity Level: 1)
 
@@ -41,7 +41,11 @@ The link to the foster application takes the user to a PDF in which users cannot
 
 On the calendar page, there are multiple calendars with different formats. There is a master Google calendar at the top of the page with all of the events displayed. Below are two grids: "Volunteer Orientations" and "Wildlife Workshops". These events are already included on the Google calendar, with all of the same information included, so it is unnecessary to have both.
 
-![Calendars](image)
+![Calendars](4.0.png)
+
+![Calendars](4.1.png)
+
+![Calendars](4.2.png)
 
 On every page there is the toolbar at the top, as well as a sidebar. Many of these links are redundant. For example, clicking the header "Adopt" on the top toolbar menu brings you to the same page as clicking "Adopt a pet today" under the "Looking for a friend" section on the side toolbar menu. 
 
@@ -61,6 +65,8 @@ The online volunteer form has many required fields. If a user does not complete 
 
 If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and using recognition techniques. (Severity level )
 
+![Animal ID](6.png)
+
 ## 7. Flexibility and efficiency of use.
 
 There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills.
@@ -73,10 +79,10 @@ The design of the LAAS website is overwhelming. There are multiple formats for p
 
 To test the animal search feature, I inputted a false animal ID. I was then given an error message stating: "Remember, the fewer things you search on, the more animals you will see. Use the 'No Preference' option for breed, gender, age, size and color to see the most animals." at the top of the page as well as: "We are very sorry, but due to high usage we were unable to process your request. Please wait a few moments and try again." in the middle of the page. To the user it is unclear what caused the error and what can be done to fix it. (Severity level )
 
-![Search error](image)
+![Search error](9.png)
 
 ## 10. Help and documentation.
 
 The search bar on the homepage is small in size, but centered and towards the top of the page. Once you navigate off the homepage the search bar is now on the sidebar, which is not too difficult to spot, but is not intuitive since it has moved locations. Additionally, searching for a simple key word like "adopt" generates results of blog posts instead of how to navigate the website to the adoption pages. The FAQs provide more relevant information to an "adopt" search; however they are located under the "About Us" menu on the top toolbar and not under the "Need Help" menu on the side toolbar. (Severity level )
 
-![Search example](image)
+![Search example](10.png)
