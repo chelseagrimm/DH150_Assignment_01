@@ -112,38 +112,66 @@ Overall impression
 
 EX
 
+![visibility](1visibility.png)
+
 ## 2. Match between system and the real world.
 
 EX
+
+![match](2.1peta.png)
+
+![match](2.2peta.png)
 
 ## 3. User control and freedom.
 
 EX
 
+![control](3control.png)
+
 ## 4. Consistency and standards.
 
 EX
+
+![sm](p4.1.png)
+
+![sm](p4.2.png)
+
+![sm](p4.3.png)
 
 ## 5. Error prevention.
 
 EX
 
+![error](5errorprevention.png)
+
 ## 6. Recognition rather than recall.
 
 EX
+
+![recall](6recall.png)
 
 ## 7. Flexibility and efficiency of use.
 
 EX
 
+![flex](p7.1.png)
+
+![flex](p7.2.png)
+
 ## 8. Aesthetic and minimalist design.
 
 EX
+
+![design](8.png)
 
 ## 9. Help users recognize, diagnose, and recover from errors.
 
 EX
 
+![errorprev](9errors.png)
+
 ## 10. Help and documentation.
 
 EX
+
+![help](10help.png)
