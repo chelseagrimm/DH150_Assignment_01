@@ -35,13 +35,13 @@ However, the site uses terms like "SMART", "Emergency Equine Response Team", and
 
 ## 3. User control and freedom.
 
-The link to the foster application takes the user to a PDF in which users cannot type into the form. It also does not contain instructions on how to submit the form. This does not give the user control over the website. (Severity Level: 2)
+The link to the foster application takes the user to a PDF in which users cannot type into the form. There is not a specific "print" option and it does not contain instructions on how to submit the form. The user does not have the ability to use this page and is not provided with options. (Severity Level: 2)
 
 [Foster application](http://www.laanimalservices.com/wp-content/uploads/2019/06/foster-application.pdf)
 
 ## 4. Consistency and standards.
 
-On the calendar page, there are multiple calendars with different formats. There is a master Google calendar at the top of the page with all of the events displayed. Below are two grids: "Volunteer Orientations" and "Wildlife Workshops". These events are already included on the Google calendar, with all of the same information included, so it is unnecessary to have both. (Severity Level: 1)
+On the calendar page, there are multiple calendars with different formats. There is a master Google calendar at the top of the page with all of the events displayed. Below are two grids: "Volunteer Orientations" and "Wildlife Workshops". These events are already included on the Google calendar, with all of the same information included, so it is unnecessary to have both and may lead to user confusion. (Severity Level: 2)
 
 ![Calendars](4.0.png)
 
@@ -59,24 +59,26 @@ On the online volunteer form, some fields are denoted with a blue asterick for r
 
 ## 5. Error prevention.
 
-The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user. (Severity Level: 1)
+The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, it explains how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user. (Severity Level: 1)
 
 ![Error suggestions](5.error.png)
 
 ## 6. Recognition rather than recall.
 
-If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and using recognition techniques. (Severity level: 3)
+If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and by using recognition techniques. (Severity level: 3)
 
 ![Animal ID](6.png)
 
 ## 7. Flexibility and efficiency of use.
 
-There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills. (Severity Level: 2)
+There appears to be little flexibility for efficiency in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have multiple options and may get stuck in a loop trying to find a page. A user who frequents the site may figure out the best way to navigate the website; however it does not allow for users to use advanced skills to increase efficiency. (Severity Level: 2)
 
 Top toolbar
+
 ![top](top.png)
 
 Side toolbar
+
 ![side](side.png)
 
 ## 8. Aesthetic and minimalist design.
@@ -91,7 +93,7 @@ The design of the LAAS website is overwhelming. There are multiple formats for p
 
 ## 9. Help users recognize, diagnose, and recover from errors.
 
-To test the animal search feature, I inputted a false animal ID. I was then given an error message stating: "Remember, the fewer things you search on, the more animals you will see. Use the 'No Preference' option for breed, gender, age, size and color to see the most animals." at the top of the page as well as: "We are very sorry, but due to high usage we were unable to process your request. Please wait a few moments and try again." in the middle of the page. To the user it is unclear what caused the error and what can be done to fix it. (Severity Level: 2)
+To test the animal search feature, I inputted a false animal ID. I was then given an error message stating: "Remember, the fewer things you search on, the more animals you will see. Use the 'No Preference' option for breed, gender, age, size and color to see the most animals." at the top of the page, as well as: "We are very sorry, but due to high usage we were unable to process your request. Please wait a few moments and try again." in the middle of the page. To the user it is unclear what caused the error and what can be done to fix it. (Severity Level: 2)
 
 ![Search error](9.png)
 
@@ -145,19 +147,19 @@ As stated in point 2, PETA clearly wants to highlight their social media. So muc
 
 ## 5. Error prevention.
 
-When filling out any form on PETA's website, they separate their reqiured fields from non-required fields simply by bolding the required fields. However, this distinction is not very clear and does not follow the standard practices. Using an asterick or coloring those fields in red would be more effective in preventing users from making this error. (Severity Level: 2)
+When filling out any form on PETA's website, they separate their reqiured fields from non-required fields simply by bolding the required fields. However, this distinction is not obvious and does not follow the standard practices. Using an asterick or coloring those fields in red would be more effective in preventing users from making this error. (Severity Level: 2)
 
 ![error](5errorprevention.png)
 
 ## 6. Recognition rather than recall.
 
-The "Action" page simply has a search bar to "Search Action Alerts". An unexperienced user, may not know what an action alert is and would therefore not know what to search for in this instance. Instead, it would be helpful to provide examples or suggestions. Additionally, unless a user has a specific cause in mind, searching a simple term like "dog" leads them to over 100 results to sort through manually. (Severity Level: 2)
+The "Action" page simply has a search bar to "Search Action Alerts". An unexperienced user may not know what an action alert is and would therefore not know what to search for in this instance. Instead, it would be helpful to provide examples or suggestions. Additionally, unless a user has a specific cause in mind, searching a simple term like "dog" leads them to over 100 results to sort through manually. (Severity Level: 2)
 
 ![recall](6recall.png)
 
 ## 7. Flexibility and efficiency of use.
 
-PETA has an accesibility page to allow disabled users to use their website efficiently. This is a great feature.
+PETA has an accesibility page to allow disabled users to use their website efficiently. This is a great feature to allow users of all abilities as well as experience levels to navigate the website. Additionally, these features are clearly explained so that users can access them.
 
 ![flex](p7.1.png)
 
@@ -165,13 +167,13 @@ PETA has an accesibility page to allow disabled users to use their website effic
 
 ## 8. Aesthetic and minimalist design.
 
-The design of the PETA website is consistent and minimalistic. It is pretty.
+The design of the PETA website is consistent and minimalistic. They use language that users can understand and provide aesthetically pleasing, relevant photos that enhance the design of the website. 
 
 ![design](8.png)
 
 ## 9. Help users recognize, diagnose, and recover from errors.
 
-When trying to submit a volunteer form without any information, the website generates an error message stating an invalid email address. Then when a valid email address in inputted (but still nothing else) another error message appears that says first name is missing. It would be extremely more efficient for all of the missing field errors to be diagnosed at once instead of one by one. The user would become frustrated. As stated in point 5, it is already unclear which fields are required so it would not be surprising for users to encounter this error. (Severity Level: 3)
+When trying to submit a volunteer form without any information, the website generates an error message stating an invalid email address. Then when a valid email address in inputted (but still nothing else) another error message appears that says first name is missing. It would be much more efficient for all of the missing field errors to be diagnosed at once instead of one by one. As stated in point 5, it is already unclear which fields are required so it would not be surprising for users to encounter this error. (Severity Level: 3)
 
 ![errorprev](9errors.png)
 
@@ -179,6 +181,6 @@ When trying to submit a volunteer form without any information, the website gene
 
 ## 10. Help and documentation.
 
-The PETA website is a great example of a help page. They have a full "Site Map" page to help users navigate their website. 
+The PETA website is a good example of a help page. They have a full "Site Map" page to help users navigate their website. The search bar stays in a consistent location and generates helpful results, often referring users to the FAQ page.
 
 ![help](10help.png)
