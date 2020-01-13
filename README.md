@@ -49,7 +49,7 @@ On every page there is the toolbar at the top, as well as a sidebar. Many of the
 
 On the online volunteer form, some fields are denoted with a blue asterick for required field while others have the written out "answer required".
 
-![Answer required inconsistency](image)
+![Answer required inconsistency](4.3.png)
 
 ## 5. Error prevention.
 
