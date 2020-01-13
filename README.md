@@ -1,25 +1,25 @@
-# Simplifying LA Animal Services website
+# Simplifying the LA Animal Services website
 Chelsea Grimm, DH150 Winter 2020
+
+For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. The county of Los Angeles is so large that the shelters are full of animals and their website is trying to keep up. I believe that the user experience for animal lovers like myself could be improved on the LA Animal Services website to enable users to navigate the services offered with more ease to ultimately help more animals. 
 
 [LA Animal Services](http://www.laanimalservices.com)
 
 ![LA Animal Services website](1.png)
 
-For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. The county of Los Angeles is so large that the animal shelters are overcrowded and their website is lacking. I believe that the user experience for animal lovers like myself could be improved on the LA Animal Services website to enable users to navigate the services offered with more ease and help more animals. 
+The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are differing interface designs on different pages of the website. 
 
-The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive. There are multiple interface designs on different pages of the website. 
+While the current LA Animal Services website is full of helpful information, it is not organized in a clear, concise way. Some pages are easily accesbile, while others take going through multiple steps to reach them. There are many opportunities for users to miss information because they are not looking in the right place on the site. Overall, the LAAS website could be majorly improved by streamlining the design into a simple, consistent system to make it less overwhelming and confusing for users.
 
-While the current LA Animal Services website is full of helpful information, it is not organized in a clear, concise way. 
-
-# Heuristics Evaluation
+# Heuristic Evaluation for LAAS
 
 ## 1. Visibility of the system.
 
-The LA Animal Services website has a good example of visibility of the system on its homepage. There is a banner with the locations listed and the number of fosters currently needed with links to pages to become a foster. 
+The LA Animal Services website has a good example of visibility of the system on its homepage. There is a banner with the locations listed and the number of fosters currently needed with links to pages to become a foster. It is updated regularly to ensure accuracy.
 
 ![Fosters](fosters.png)
 
-However, since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity Level: 1)
+However, visibility could be improved. Since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity Level: 1)
 
 ## 2. Match between the system and the real world.
 
@@ -77,7 +77,7 @@ There appears to be little flexibility in the LAAS website. As mentioned in poin
 
 ## 8. Aesthetic and minimalist design.
 
-The design of the LAAS website is overwhelming. There are multiple formats for pages. Some have a second toolbar at the top while others do not. (See screenshot of "Adopt" page vs "Volunteer" page.) There are too many options under the drop down menus, but they are not comprehensive. Due to the complicated design of the website, users could become confused. (Severity Level: 2)
+The design of the LAAS website is overwhelming. There are multiple formats for pages. Some have a second toolbar at the top while others do not. (See screenshot of "Adopt" page vs "Volunteer" page.) There are too many options under the drop down menus, but they are not comprehensive. Due to the complicated design of the website, users could become confused and miss pages because it is not consistent. (Severity Level: 2)
 
 ![home](7.1.png)
 
@@ -96,3 +96,54 @@ To test the animal search feature, I inputted a false animal ID. I was then give
 The search bar on the homepage is small in size, but centered and towards the top of the page. Once you navigate off the homepage the search bar is now on the sidebar, which is not too difficult to spot, but is not intuitive since it has moved locations. Additionally, searching for a simple key word like "adopt" generates results of blog posts instead of how to navigate the website to the adoption pages. The FAQs provide more relevant information to an "adopt" search; however they are located under the "About Us" menu on the top toolbar and not under the "Need Help" menu on the side toolbar. (Severity Level: 2)
 
 ![Search example](10.png)
+
+
+[PETA website](https://www.peta.org)
+
+![peta homepage]()
+
+Info about webpage
+
+Overall impression
+
+# Heuristic Evaluation for PETA
+
+## 1. Visibility of system status.
+
+EX
+
+## 2. Match between system and the real world.
+
+EX
+
+## 3. User control and freedom.
+
+EX
+
+## 4. Consistency and standards.
+
+EX
+
+## 5. Error prevention.
+
+EX
+
+## 6. Recognition rather than recall.
+
+EX
+
+## 7. Flexibility and efficiency of use.
+
+EX
+
+## 8. Aesthetic and minimalist design.
+
+EX
+
+## 9. Help users recognize, diagnose, and recover from errors.
+
+EX
+
+## 10. Help and documentation.
+
+EX
