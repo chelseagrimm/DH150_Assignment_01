@@ -71,6 +71,10 @@ If users have lost an animal, there is the option to search by animal ID. Howeve
 
 There appears to be little flexibility in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have many options. A user who frequents the site may figure out the best way to navigate the website, it does not allow for users to put in practice their own skills.
 
+![top](top.png)
+
+![side](side.png)
+
 ## 8. Aesthetic and minimalist design.
 
 The design of the LAAS website is overwhelming. There are multiple formats for pages. Some have a second toolbar at the top while others do not. (See screenshot of "Adopt" page vs "Volunteer" page.) There are too many options under the drop down menus, but they are not comprehensive. Due to the complicated design of the website, users could become confused. 
