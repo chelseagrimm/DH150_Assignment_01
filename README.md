@@ -29,7 +29,7 @@ The LAAS website has links to their social media on the website and use the icon
 
 However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead. (Severity Level: 1)
 
-![SMART](image)
+![SMART](2.2.png)
 
 ## 3. User control and freedom.
 
