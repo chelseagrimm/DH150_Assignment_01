@@ -9,7 +9,7 @@ For as long as I can remember I have been an animal lover. I remember visiting t
 
 ![LA Animal Services website](1.png)
 
-The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are differing interface designs on different pages of the website. 
+The Los Angeles Animal Services website is a place for users to adopt, foster, or volunteer with animals in Los Angeles. The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are differing interface designs on different pages of the website. 
 
 While the current LA Animal Services website is full of helpful information, it is not organized in a clear, concise way. Some pages are easily accesbile, while others take going through multiple steps to reach them. There are many opportunities for users to miss information because they are not looking in the right place on the site. Overall, the LAAS website could be majorly improved by streamlining the design into a simple, consistent system to make it less overwhelming and confusing for users.
 
@@ -109,7 +109,7 @@ The search bar on the homepage is small in size, but centered and towards the to
 
 ![peta homepage](peta.png)
 
-The PETA website is visually appealing and contains many images to accompany its pages. There are 12 menu options at the top of the page, which have a consistent design; when you click on them they have more options on the left side of the page. The website is full of articles, making it seem like a collection of blog posts; however, it also contains informational pages and ways to volunteer and donate. 
+PETA, or People for the Ethical Treatment of Animals, is a nonprofit dedicated to animal rights. The website gives users options to educate themselves, donate, and support the cause. The PETA website is visually appealing and contains many images to accompany its pages. There are 12 menu options at the top of the page, which have a consistent design; when you click on them they have more options on the left side of the page. The website is full of articles, making it seem like a collection of blog posts; however, it also contains informational pages and ways to volunteer and donate. 
 
 While the PETA website is organized, it still has an overwhelming amount of information in which the user could become lost. The website could benefit from providing a page of "quick" or "popular" links to bring users to the pages they are most likely to seek.  
 
