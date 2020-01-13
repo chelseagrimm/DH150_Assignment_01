@@ -1,7 +1,7 @@
 # Streamlining Animal Welfare Websites
 Chelsea Grimm, DH150 Winter 2020
 
-For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. Through exploring different websites whose goal is to help animals, I found that there is so much information and resources that can overwhelm a user. 
+For as long as I can remember I have been an animal lover. I remember visiting the local animal shelter as a child and being mesmerized by the puppies and kittens behind glass doors, wanting to pet them all and take them all home. I remember taking my first puppy to training with my mom at our local shelter each week to teach her basic commands and help her adjust to life at home. The connection I feel towards animals also connects me to humans. I feel a community around those who love animals and want to help them as much as I do. Through exploring different websites whose goal is to help animals, I found that there is so much information and resources that it can be overwhelming to a user. 
 
 # Example 1: Los Angeles Animal Services
 
