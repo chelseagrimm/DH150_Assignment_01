@@ -49,7 +49,7 @@ On the calendar page, there are multiple calendars with different formats. There
 
 On every page there is the toolbar at the top, as well as a sidebar. Many of these links are redundant. For example, clicking the header "Adopt" on the top toolbar menu brings you to the same page as clicking "Adopt a pet today" under the "Looking for a friend" section on the side toolbar menu. 
 
-![Multiple toolbars](image)
+![Multiple toolbars](4.4.png)
 
 On the online volunteer form, some fields are denoted with a blue asterick for required field while others have the written out "answer required".
 
