@@ -9,7 +9,7 @@ For as long as I can remember I have been an animal lover. I remember visiting t
 
 ![LA Animal Services website](1.png)
 
-The Los Angeles Animal Services website is a place for users to adopt, foster, or volunteer with animals in Los Angeles. The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are differing interface designs on different pages of the website. 
+The Los Angeles Animal Services website is a place for users to adopt, foster, or volunteer with animals in Los Angeles. The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are different interface designs on different pages of the website. 
 
 While the current LA Animal Services website is full of helpful information, it is not organized in a clear, concise way. Some pages are easily accesbile, while others take going through multiple steps to reach them. There are many opportunities for users to miss information because they are not looking in the right place on the site. Overall, the LAAS website could be majorly improved by streamlining the design into a simple, consistent system to make it less overwhelming and confusing for users.
 
@@ -21,7 +21,7 @@ The LA Animal Services website has a good example of visibility of the system on
 
 ![Fosters](fosters.png)
 
-However, visibility could be improved. Since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back buttonor start from the beginning. (Severity Level: 1)
+However, visibility could be improved. Since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back button or start from the beginning. (Severity Level: 1)
 
 ## 2. Match between the system and the real world.
 
@@ -29,7 +29,7 @@ The LAAS website has links to their social media on the website and use the icon
 
 ![Social media links](2.1.png)
 
-However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers than any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead. (Severity Level: 1)
+However, the site uses terms like "SMART", "Emergency Equine Response Team", and "Kuranda bed" in their drop down menus. While they do a sufficient job of explaining these terms on their respective pages, many users might be unsure what these acronyms and industry-specific terms mean. It would be more intuitive to use descriptive terms as headers that any user can understand and be able to navigate to the right page, and then explain the terms on those pages instead. (Severity Level: 1)
 
 ![SMART](2.2.png)
 
@@ -59,19 +59,19 @@ On the online volunteer form, some fields are denoted with a blue asterick for r
 
 ## 5. Error prevention.
 
-The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, it explains how to format the zip code and email addresses. These suggestions are only made after the error being made. These suggestions should be present before the errors are made to help the user. (Severity Level: 1)
+The online volunteer form has many required fields. If a user does not complete the required fields, the page does not let them continue until they have fixed the errors. Once the errors are made, the website gives suggestions on how to fill them in correctly; for example, it explains how to format the zip code and email addresses. These suggestions are only made after the error is made. These suggestions should be present before the errors are made to help the user. (Severity Level: 1)
 
 ![Error suggestions](5.error.png)
 
 ## 6. Recognition rather than recall.
 
-If users have lost an animal, there is the option to search by animal ID. However, users may not have access to their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and by using recognition techniques. (Severity level: 3)
+If users have lost an animal, there is the option to search by animal ID. However, users may not recall their animal ID number which would prevent them from using this feature. The website then gives the option to view "Dogs/cats found by the public". This redirects the user to a page of over 50 animals to look through which minimal descriptions, many of which do not have a photo attached. There is another option to search for animals by shelter. However, lost animals may travel far distances and users still have to then sort through pages of animals. This system first expects users to recall a long code, which is not ideal, and if recall is not available, the other option is to do a lot of manual searching through different channels. This process should be streamlined by combining these search tactics into one process and by using recognition techniques. (Severity level: 3)
 
 ![Animal ID](6.png)
 
 ## 7. Flexibility and efficiency of use.
 
-There appears to be little flexibility for efficiency in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have multiple options and may get stuck in a loop trying to find a page. A user who frequents the site may figure out the best way to navigate the website; however it does not allow for users to use advanced skills to increase efficiency. (Severity Level: 2)
+There appears to be little flexibility for efficiency in the LAAS website. As mentioned in point 4, there are multiple ways to navigate to the same pages. While this does provide "flexibility" it is not necessarily efficient. It becomes confusing for the user as they have multiple options and may get stuck in a loop trying to find a page. A user who frequents the site may figure out the best way to navigate the website; however it does not allow users to use advanced skills to increase efficiency. (Severity Level: 2)
 
 Top toolbar
 
@@ -123,7 +123,7 @@ While it is helpful that the website offers a "back to top" button after certain
 
 ## 2. Match between system and the real world.
 
-It is clear from the PETA website that they encourage users to share their material on social media. However, some of the symbols they choose to use could be somewhat confusing to the user. For example, the arrow in the left corner appears to be welcoming users to launch the article; however, when the mouse is hovered over it, options to share to social media are revealed instead. (Severity Level: 1)
+It is clear from the PETA website that the organization encourages users to share their material on social media. However, some of the symbols they choose to use could be somewhat confusing to the user. For example, the arrow in the left corner appears to be welcoming users to launch the article; however, when the mouse is hovered over it, options to share to social media are revealed instead. (Severity Level: 1)
 
 ![match](2.1peta.png)
 
@@ -147,7 +147,7 @@ As stated in point 2, PETA clearly wants to highlight their social media. Howeve
 
 ## 5. Error prevention.
 
-When filling out any form on PETA's website, they separate their reqiured fields from non-required fields simply by bolding the required fields. However, this distinction is not obvious and does not follow the standard practices. Using an asterick or coloring those fields in red would be more effective in preventing users from making this error. (Severity Level: 2)
+When filling out any form on PETA's website, they separate their reqiured fields from non-required fields simply by bolding the required fields. However, this distinction is not obvious and does not follow standard practices. Using an asterick or coloring those fields in red would be more effective in preventing users from making this error. (Severity Level: 1)
 
 ![error](5errorprevention.png)
 
@@ -181,6 +181,6 @@ When trying to submit a volunteer form without any information, the website gene
 
 ## 10. Help and documentation.
 
-The PETA website is a good example of a help page. They have a full "Site Map" page to help users navigate their website. The search bar stays in a consistent location and generates helpful results, often referring users to the FAQ page.
+The PETA website has a good example of a help page. They have a full "Site Map" page to help users navigate their website. The search bar stays in a consistent location and generates helpful results, often referring users to the FAQ page.
 
 ![help](10help.png)
