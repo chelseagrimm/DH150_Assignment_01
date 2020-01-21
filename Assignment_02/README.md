@@ -9,7 +9,7 @@ The survey
 
 The video
 
-[video](https://drive.google.com/drive/u/0/folders/1iBC0RRIRMblM29buYwUfvDfiHQKG-W4N)
+[video](https://drive.google.com/file/d/18nDjBYmx-hXS4JzY0ntMC0OD6eCJmyx8/view?usp=sharing)
 
 
 Conclusion paragraph
