@@ -7,7 +7,7 @@ For as long as I can remember I have been an animal lover. I remember visiting t
 
 [LA Animal Services](http://www.laanimalservices.com)
 
-![LA Animal Services website](1.png)
+![LA Animal Services website](/Assignment_01/1.png)
 
 The Los Angeles Animal Services website is a place for users to adopt, foster, or volunteer with animals in Los Angeles. The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are different interface designs on different pages of the website. 
 
