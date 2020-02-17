@@ -16,19 +16,22 @@ The third task is to search for a lost pet, just like the persona "Jim" intended
 
 ## Wireflows
 
-(Task1)
+![flow1](flow1.png)
 
-(Task2)
+![flow2](flow2.png)
 
-(Task3)
+![flow3](flow3.png)
+
 
 ## Testing the Wireflows
 
-(Test1)
+![test1](test1.png)
 
-(Test2)
+![test2](test2.png)
 
-(Test3)
+![test3](test3.png)
+
+![user](user.png)
 
 ## Reflection
 
