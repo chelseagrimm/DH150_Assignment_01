@@ -12,7 +12,7 @@ The third task is to search for a lost pet, just like the persona "Jim" intended
 
 ## Wireframes
 
-![Wireframes](/wireframes.png)
+![Wireframes](/DH_150/wireframes.png)
 
 ## Wireflows
 
