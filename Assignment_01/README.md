@@ -7,7 +7,7 @@ For as long as I can remember I have been an animal lover. I remember visiting t
 
 [LA Animal Services](http://www.laanimalservices.com)
 
-![LA Animal Services website](/DH_150/1.good.png)
+![LA Animal Services website](1.good.png)
 
 The Los Angeles Animal Services website is a place for users to adopt, foster, or volunteer with animals in Los Angeles. The homepage of the LA Animal Services website has nine drop-down menus to take the user to other pages, as well as quick links to take users to popular pages, both on the LAAS website or other sites like Amazon. The website also contains a sidebar with more links to take users through the website. Some of these pages are purely informational, while others are interactive, containing forms or search engines. There are different interface designs on different pages of the website. 
 
@@ -19,7 +19,7 @@ While the current LA Animal Services website is full of helpful information, it 
 
 The LA Animal Services website has a good example of visibility of the system on its homepage. There is a banner with the locations listed and the number of fosters currently needed with links to pages to become a foster. It is updated regularly to ensure accuracy.
 
-![Fosters](/DH_150/fosters.png)
+![Fosters](fosters.png)
 
 However, visibility could be improved. Since there are so many headers and links on the pages, it would be helpful to have a banner at the top of the page that shows the path the user took to get to the page they are currently on. For example, if the user navigated to the visit page, chose the North Central location, and then clicked the link to view adoptable pets at that location, there should be a banner at the top of the page reading "Visit > North Central > View Adoptable Pets at North Central". This would allow the user to easily return to any part of the site they had taken instead of having to click the back button or start from the beginning. (Severity Level: 1)
 
