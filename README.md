@@ -16,6 +16,8 @@ website 1 | website 2
 ----------|-----------
 ![LAAS](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/laas.png)|![PETA](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/peta.png)
 
+[![Usability Test](https://youtu.be/yKNxeF4KMsY)
+
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
@@ -34,5 +36,7 @@ Summary statement and link to or an embedded prototype
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video [update the video after recording your presentation]
+
+[!Pitch-Video](url)
 
 ## conclusion: what you learned throughout the process
