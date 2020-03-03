@@ -4,7 +4,7 @@
 
 Persona (1) KELLEY, a college student looking to volunteer her time at an animal shelter
 
-![Kelley]()
+![Kelley](Kelley.png)
 
 Demographics
 * 21 yr old
@@ -44,7 +44,7 @@ Journey Map
 
 Persona (2) MARTHA, a retired woman who lives alone, who is interested in fostering animals
 
-![Martha]()
+![Martha](Martha.png)
 
 Demographics
 * Female
@@ -82,7 +82,7 @@ Journey Map
 
 Persona (3) MIKE, a man who lost his dog
 
-![Mike]()
+![Mike](Mike.png)
 
 Demographics
 * 45 year old
