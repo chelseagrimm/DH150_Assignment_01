@@ -16,8 +16,6 @@ website 1 | website 2
 ----------|-----------
 ![LAAS](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/laas.png)|![PETA](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/peta.png)
 
-<figure class="video_container">
-  <iframe src=“https://drive.google.com/file/d/18nDjBYmx-hXS4JzY0ntMC0OD6eCJmyx8/view?usp=sharing” frameborder="0" allowfullscreen="true"></iframe></figure>
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
