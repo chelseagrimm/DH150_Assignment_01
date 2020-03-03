@@ -18,3 +18,4 @@ Summary statement and link to or an embedded prototype
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 10) Pitch video [update the video after recording your presentation]
 11) conclusion: what you learned throughout the process
+nklhgvhkhnbm
