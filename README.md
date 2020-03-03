@@ -8,7 +8,12 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated. https://github.com/chelseagrimm/DH_150/tree/master/Assignment_01
+
+
+
+website 1 | website 2
+----------|-----------
 
 ![LAAS](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/laas.png)
 
