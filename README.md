@@ -12,20 +12,22 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 
 
-website 1 | website 2
+LAAS | PETA
 ----------|-----------
 ![LAAS](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/laas.png)|![PETA](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/peta.png)
 
+Usability Testing Video
 
 <iframe src="https://drive.google.com/file/d/18nDjBYmx-hXS4JzY0ntMC0OD6eCJmyx8/preview" width="640" height="480"></iframe>
 
 ## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+Summary and link to your assignment folder. [Read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_04/READ.md)
 
 ## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+Summary and link to your assignment folder. [Read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_05/READ.md)
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
+
 
 ## Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
