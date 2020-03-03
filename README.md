@@ -8,7 +8,7 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
 ## Competitor analysis [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated. [read more...](https://github.com/chelseagrimm/DH_150/tree/master/Assignment_01)
+Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated. [read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_01/README.md)
 
 
 
@@ -29,8 +29,8 @@ Summary and link to your assignment folder. [Read more...](https://github.com/ch
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
 
-## Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Low-fidelity prototype (wireflow, assignment06)
+Summary and link to the sketches (may contains the multiple versions and evaluation history) [Read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
