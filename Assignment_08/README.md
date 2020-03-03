@@ -17,4 +17,6 @@
 
 ![wireflow](fullflow.png)
 
-## Prototype (Link to the interactive prototype or embed window that shows the prototype)
+## Link to interactive prototype
+
+[Protoype](https://www.figma.com/proto/yrt0fLRb55mjJpQWfaZFiy/HighFidelityPrototype?node-id=7%3A1&scaling=scale-down)
