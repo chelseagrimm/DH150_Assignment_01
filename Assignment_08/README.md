@@ -8,11 +8,13 @@
 
 ## Example of screen designs (One image with the representative examples of screen designs (3-5 screens))
 
+![3examples](3ex.png)
 
 ## Decision making (Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast.)
 
 
 ## Wireflow (One image with the wireflow with graphic design)
 
+![wireflow](fullflow.png)
 
 ## Prototype (Link to the interactive prototype or embed window that shows the prototype)
