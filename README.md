@@ -14,7 +14,6 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 website 1 | website 2
 ----------|-----------
-
 ![LAAS](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/laas.png)|![PETA](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/peta.png)
 
 ## User research [contextual inquiry, assignment04]:
