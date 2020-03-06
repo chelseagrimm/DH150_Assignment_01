@@ -25,7 +25,7 @@ Characteristics that represent barriers
 
 Empathy map
 
-![KelleyEmpathyMap]()
+![KelleyEmpathyMap](Kelley-empathy.png)
 
 Scenario 1
 
@@ -37,7 +37,7 @@ A friend tells Kelley about the Los Angeles Lover of Animals (LALA) app. Kellely
 
 Journey Map
 
-![KelleyJourneyMap]()
+![KelleyJourneyMap](Kelley-journey.png)
 
 
 ## Feature 2 - Find fostering opportunities and the ability to post availability as a foster
@@ -62,7 +62,7 @@ Motivations/needs
 * Canâ€™t advertise herself directly to families in emergencies
 
 
-![MarthaEmpathyMap]()
+![MarthaEmpathyMap](Martha-empathy.png)
 
 
 Scenario 2
@@ -75,7 +75,7 @@ Martha downloads the LALA app so that she can stay up to date with which shelter
 
 Journey Map
 
-![MarthaJourneyMap]()
+![MarthaJourneyMap](Martha-journey.png)
 
 
 ## Feature 3 - Collective search for lost animals
@@ -100,7 +100,7 @@ Characteristics that represent barriers
 
 Empathy Map
 
-![MikeEmpathyMap]()
+![MikeEmpathyMap](Mike-empathy.png)
 
 Scenario 3
 
@@ -112,4 +112,4 @@ Mike downloads the LALA  app so that he can search through all of the sheltersâ€
 
 Journey Map
 
-![MikeJourneyMap]()
+![MikeJourneyMap](Mike-journey.png)
