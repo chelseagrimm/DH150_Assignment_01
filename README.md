@@ -37,7 +37,9 @@ The next step in the process was to determine who the potential users of my solu
 
 
 ## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history) [Read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
+Summary and link to the sketches (may contains the multiple versions and evaluation history) 
+
+The purpose of the low fidelity prototype was to determine the layout [Read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
