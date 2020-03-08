@@ -42,7 +42,7 @@ Based off all of the research I had done, I developed the concept for the Los An
 
 ![wireframe](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/wireframes.png)
 
-## Low-fidelity prototype (wireflow, assignment06)
+## Low-fidelity prototype
 
 The purpose of the low fidelity prototype was to determine the layout of my app and to sketch out the progression from one page to the next. To read more click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
 
@@ -50,8 +50,7 @@ Volunteering | Forum | Search for Lost Pet
 ------------|--------|------------------
 ![1](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/test1.png) | ![2](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/test2.png) | ![3](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/test3.png)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+## High-fidelity prototype
 
 The high-fidelty (or functional/interactive) prototype was created using Figma, an online interface design tool. This enabled me to bring the app to life to see what it would actually look like and how a user would flow through using the app. To read more about the high fidelity interactive prototype click [here](https://github.com/chelseagrimm/DH_150/tree/master/Assignment_08) or interact with it below!!
 
@@ -59,4 +58,4 @@ The high-fidelty (or functional/interactive) prototype was created using Figma, 
 
 ## Conclusion
 
-This process was 
+This process challenged me to think creatively, find solutions to problems, and be aware of every little detail. 
