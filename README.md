@@ -58,4 +58,4 @@ The high-fidelty (or functional/interactive) prototype was created using Figma, 
 
 ## Conclusion
 
-This process challenged me to think creatively, find solutions to problems, and be aware of every little detail. I believe I created a product that solves the initial challenge I faced when 
+This process challenged me to think creatively, find solutions to problems, and be aware of every little detail. I believe I created a product that solves the initial challenge I faced when researching spaces for animal lovers. I created a space for animal lovers to come together and support each other through various avenues and approaches of becoming more of a community. It is a collabortive space where people can share their opinions, ask for help, offer their services, and bond over their shared love of animals. While I am pleased with the product I have developed, I believe there is more that can be done to strengthen it. Since it is a new product, further UX testing should be done to determine which features need work. However, I believe it is a great starting place for community to build.
