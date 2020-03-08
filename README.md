@@ -34,7 +34,7 @@ The next step in the process was to determine who the potential users of my solu
 
 Kelley | Martha | Mike
 -------|--------|------
-![k](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Kelley.png) | ![M](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Martha.png) | ![mike](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Mike.png)
+![k](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Kelley1.png) | ![M](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Martha1.png) | ![mike](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Mike1.png)
 
 ## Wireframe and graphic design element variation
 
