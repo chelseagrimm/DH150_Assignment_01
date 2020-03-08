@@ -26,11 +26,15 @@ Usability Testing Video
 
 ## User research 
 
-While the insights I gained from the usability test were helpful, additional research was needed. Therefore, I performed a contextual inquiry to broaden my view and learn more about how users operate. I was inspired by what my user said to make sure that the app I created had real-time updates, specific details on volunteering needs, and the ability to compare opportunities. To read the full contextual inquiry or listen as an audio file click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_04/READ.md)
+While the insights I gained from the usability test were helpful, additional research was needed. Therefore, I performed a contextual inquiry to broaden my view and learn more about how users operate. I was inspired by what my user said to make sure that the app I created had real-time updates, specific details on volunteering needs, and the ability to compare opportunities. To read the full contextual inquiry or listen as an audio file click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_05/READ.md)
 
 ## UX storytelling
 
-The next step in the process was to determine who the potential users of my solution would be. This was an important step to understand how to meet specific users' needs and determine what is most important to them. I created three personas who represent the three main tasks I wanted to accomplish: finding a volunteer opportunity, posting on the forum, and searching for a lost pet. To read more on the personas and scenarios click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_05/READ.md)
+The next step in the process was to determine who the potential users of my solution would be. This was an important step to understand how to meet specific users' needs and determine what is most important to them. I created three personas who represent the three main tasks I wanted to accomplish: finding a volunteer opportunity, posting on the forum, and searching for a lost pet. To read more on the personas and scenarios click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_04/READ.md)
+
+Kelley | Martha | Mike
+-------|--------|------
+![k](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Kelley.png) | ![M](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Martha.png) | ![mike](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_04/Mike.png)
 
 ## Wireframe and graphic design element variation
 
