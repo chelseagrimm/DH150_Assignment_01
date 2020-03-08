@@ -1,4 +1,4 @@
-# Project title + your name
+# LALA land
 ## DH150 UX Design, Chelsea Grimm
 
 ## Introduction
@@ -45,7 +45,11 @@ Based off all of the research I had done, I developed the concept for the Los An
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history) 
 
-The purpose of the low fidelity prototype was to determine the layout [Read more...](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
+The purpose of the low fidelity prototype was to determine the layout of my app and to sketch out the progression from one page to the next. To read more click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
+
+Volunteering | Forum | Search for Lost Pet
+------------|--------|------------------
+![1](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/test1.png) | ![2](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/test2.png) | ![3](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/test3.png)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
