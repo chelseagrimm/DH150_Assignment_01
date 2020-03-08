@@ -38,7 +38,7 @@ Kelley | Martha | Mike
 
 ## Wireframe and graphic design element variation
 
-Based off all of the research I had done, I developed the concept for the Los Angeles Lovers of Animals (LALA) app. I knew I wanted to highlight the three features I found to be most important (finding a volunteer opportunity, posting on the forum, and searching for a lost pet) and there for I had to create screen designs for these pages. Additionally, I wanted to avoid the confusing, over-crowded look of most of the websites already in existence online so I went for minimalistic, easy to follow design.
+Based off all of the research I had done, I developed the concept for the Los Angeles Lovers of Animals (LALA) app. I knew I wanted to highlight the three features I found to be most important (finding a volunteer opportunity, posting on the forum, and searching for a lost pet) and there for I had to create screen designs for these pages. Additionally, I wanted to avoid the confusing, over-crowded look of most of the websites already in existence online so I went for minimalistic, intuitive design.
 
 ![wireframe](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/newframes1.png)
 
