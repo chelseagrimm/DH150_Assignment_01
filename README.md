@@ -44,7 +44,7 @@ Based off all of the research I had done, I developed the concept for the Los An
 
 ## Low-fidelity prototype
 
-The purpose of the low fidelity prototype was to determine the layout of my app and to sketch out the progression from one page to the next. To read more click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
+The purpose of the low fidelity prototype was to determine the layout of my app and to sketch out the progression from one page to the next. This step was helpful because it showed me which steps in the tasks were confusing to the user. For example, I learned that I should make it more clear on how to type and upload documents to the forum. To read more click [here!](https://github.com/chelseagrimm/DH_150/blob/master/Assignment_06/README.md)
 
 Volunteering | Forum | Search for Lost Pet
 ------------|--------|------------------
@@ -52,10 +52,10 @@ Volunteering | Forum | Search for Lost Pet
 
 ## High-fidelity prototype
 
-The high-fidelty (or functional/interactive) prototype was created using Figma, an online interface design tool. This enabled me to bring the app to life to see what it would actually look like and how a user would flow through using the app. To read more about the high fidelity interactive prototype click [here](https://github.com/chelseagrimm/DH_150/tree/master/Assignment_08) or interact with it below!!
+The high-fidelty (or functional/interactive) prototype was created using Figma, an online interface design tool. This enabled me to bring the app to life to see what it would actually look like and how a user would flow through using the app. The high-fidelity prototype helped me bring the vision in my head to life. To read more about the high fidelity interactive prototype click [here](https://github.com/chelseagrimm/DH_150/tree/master/Assignment_08) or interact with it below!!
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fyrt0fLRb55mjJpQWfaZFiy%2FHighFidelityPrototype%3Fnode-id%3D7%253A1%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 ## Conclusion
 
-This process challenged me to think creatively, find solutions to problems, and be aware of every little detail. 
+This process challenged me to think creatively, find solutions to problems, and be aware of every little detail. I believe I created a product that solves the initial challenge I faced when 
