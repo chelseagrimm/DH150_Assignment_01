@@ -3,11 +3,11 @@
 
 ## Introduction
 
-This UX project is designed around creating an online community for animal lovers to connect and come together. I believe humans can connect through animals and that there are so many opportunities and ways this can manifest, but a space for this has not been created. Through initial research, I found an abundance of information regarding animal shelters in Los Angeles; however, I found a need for a central location for all of this information and a place for animal lovers to interact and connect. This led to the ideation of a new app that would provide a hub for animal lovers to find volunteer opportunities, communicate, and come together in a simple, streamlined fashion. 
+This UX project is designed around creating an online community for animal lovers to connect and come together. I believe humans can connect through animals and that there are so many opportunities for this to manifest, but a space for this has not been created. Through initial research, I found an abundance of information regarding animal shelters and organizations in Los Angeles; however, I found a need for a central location for all of this information and a place for animal lovers to interact and connect. This led to the ideation of a new app that would provide a hub for animal lovers to find volunteer opportunities, communicate, and come together in a simple, streamlined fashion. 
 
 ## Design statement 
 
-Through exploring different platforms that provide opportunities for animal lovers, I found it to be a confusing space online. There is so much information from separate entities, with no collaboration. Therefore, I wanted to solve this by creating a centralized location that offers multiple services in one place with the option to learn more about these platforms before connecting to them. This is important because it gives users information based on specific criteria instead of always going for the top hit on Google. It also creates a collective space where people can share their experiences and unite as a community; this feature would be present in all aspects of the app: writing reviews for volunteer experiences, posting/commenting on a forum, and assisting their community finding lost pets.
+Through exploring different platforms that provide opportunities for animal lovers, I found it to be a confusing space online. There is so much information from separate entities, with no collaboration. Therefore, I wanted to solve this by creating a centralized location that offers multiple services with the option to learn more about these platforms before connecting to them. This is important because it gives users information based on specific criteria instead of always going for the top hit on Google. It also creates a collective space where people can share their experiences and unite as a community; this element would be present in all aspects of the app: writing reviews for volunteer experiences, posting/commenting on a forum, and assisting their community finding lost pets.
 
 ## Competitor analysis
 
@@ -18,7 +18,7 @@ LAAS | PETA
 ----------|-----------
 ![LAAS](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/laas.png)|![PETA](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_01/peta.png)
 
-Next, I created a usability test based on the features I found to be most confusing: the lack of consistency, calendar page, and search features. The usability test provided deep insights into how a user views the Los Angeles Animal Services website. Watch the full usability test below and read more about the process [here!](https://github.com/chelseagrimm/DH_150/tree/master/Assignment_02)
+Next, I created a usability test for the Los Angeles Animal Services website based on the features I found to be most confusing: the lack of consistency, calendar page, and search features. The usability test provided deep insights into how a user views the Los Angeles Animal Services website and confirmed that navigating through the site is confusing due to the lack of consistency. Watch the full usability test below and read more about the process [here!](https://github.com/chelseagrimm/DH_150/tree/master/Assignment_02)
 
 Usability Testing Video
 
@@ -38,7 +38,7 @@ Kelley | Martha | Mike
 
 ## Wireframe and graphic design element variation
 
-Based off all of the research I had done, I developed the concept for the Los Angeles Lovers of Animals (LALA) app. I knew I wanted to highlight the three features I found to be most important (finding a volunteer opportunity, posting on the forum, and searching for a lost pet) and there for I had to create screen designs for these pages. Additionally, I wanted to avoid the confusing, over-crowded look of most of the websites already in existence online so I went for minimalistic, intuitive design.
+Based off all of the research I had done, I developed the concept for the Los Angeles Lovers of Animals (LALA) app. I knew I wanted to highlight the three features I found to be most important (finding a volunteer opportunity, posting on the forum, and searching for a lost pet) and therefore I had to create screen designs for these pages. Additionally, I wanted to avoid the confusing, over-crowded look of most of the websites already in existence online so I went for minimalistic, intuitive design.
 
 ![wireframe](https://github.com/chelseagrimm/DH_150/raw/master/Assignment_06/newframes1.png)
 
@@ -58,4 +58,4 @@ The high-fidelty (or functional/interactive) prototype was created using Figma, 
 
 ## Conclusion
 
-This process challenged me to think creatively, find solutions to problems, and be aware of every little detail. I believe I created a product that solves the initial challenge I faced when researching spaces for animal lovers. I created a space for animal lovers to come together and support each other through various avenues and approaches of becoming more of a community. It is a collabortive space where people can share their opinions, ask for help, offer their services, and bond over their shared love of animals. While I am pleased with the product I have developed, I believe there is more that can be done to strengthen it. Since it is a new product, further UX testing should be done to determine which features need work. However, I believe it is a great starting place for community to build.
+This process challenged me to think creatively, problem solve, and be extremely detail oriented. I believe I created a product that solves the initial challenge I faced when researching spaces for animal lovers. I created a space for animal lovers to come together and create a stronger community. It is a collabortive space where people can share their opinions, ask for help, offer their services, and bond over their shared love of animals. I hope that it would be used as a starting place for animal lovers with the ability to connect to other resources. While I am pleased with the product I have developed, I believe there is more that can be done to strengthen it. Since it is a new product, further UX testing should be done to determine which features need work. However, I believe it is a great starting place for community to build.
