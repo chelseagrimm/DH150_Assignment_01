@@ -104,7 +104,7 @@ Empathy Map
 
 Scenario 3
 
-Mike’s took his dog to the park and it ran away. His son is very sad that his dog is missing so Mike will do whatever he can to get it back. 
+Mike took his dog to the park and it ran away. His son is very sad that his dog is missing so Mike will do whatever he can to get it back. 
 
 Mike’s dog ran away and he wants to get it back. He works a full time job and cannot spend time walking the streets looking for his dog or continually checking all of the different shelters’ postings.
 
