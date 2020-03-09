@@ -28,7 +28,7 @@ The Los Angeles Lovers of Animals app (LALA) is intended as a hub for animal lov
 * Return to home page
 
 ## Example of screen designs
-![3examples](3ex.png)
+![3examples](newex.png)
 
 ## Decision making
 
