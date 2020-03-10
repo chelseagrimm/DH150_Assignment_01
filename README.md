@@ -56,6 +56,10 @@ The high-fidelity (or functional/interactive) prototype was created using Figma,
 
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fyrt0fLRb55mjJpQWfaZFiy%2FHighFidelityPrototype%3Fnode-id%3D7%253A1%26scaling%3Dscale-down" allowfullscreen></iframe>
 
+## Pitch video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dshzc4DtxII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Conclusion
 
 This process challenged me to think creatively, problem solve, and be extremely detail oriented. I believe I created a product that solves the initial challenge I faced when researching spaces for animal lovers. I created a space for animal lovers to come together and create a stronger community. It is a collaborative space where people can share their opinions, ask for help, offer their services, and bond over their shared love of animals. I hope that it would be used as a starting place for animal lovers with the ability to connect to other resources. While I am pleased with the product I have developed, it is a new product so I believe that further UX testing should be done to strengthen it. However, I believe it is a great starting place for community to build.
